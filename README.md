@@ -3,7 +3,7 @@
 
 ## About
 
-I'm a fullstack developer, working with the web on solutions related to data (like web scraping) and apps (with React, Angular and VanillaJS), along with RESTful server services. I have a graduation in Electrical Engineering, having a deep knowledge of the field.
+I'm a fullstack developer, working with the web on solutions related to data (like web scraping) and apps (with React, Angular and VanillaJS), along with RESTful server services (using NodeJS and Mongo). I have a graduation in Electrical Engineering, having great knowledge of the field.
 
 ## Actual work and studies
 
