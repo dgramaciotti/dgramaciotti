@@ -3,11 +3,11 @@
 
 ## About
 
-I'm a fullstack developer, working with the web on solutions related to data (like web scraping) and apps (with React, Angular and VanillaJS), along with RESTful server services (using NodeJS and Mongo). I have a bachelor's degree in Electrical Engineering.
+I'm a fullstack developer, working with the web on solutions related to data (like web scraping) and apps (with React, Angular and VanillaJS), along with RESTful server services (using NodeJS and Mongo/Sql). I have a bachelor's degree in Electrical Engineering and I'm currently studying for a post-graduate degree in software engineering.
 
 ## Recent work and study
 
-Currently I'm learning more about React, mongoose and advanced server side code, with authentication, project structure and Modularization using AWS services, like AWS Lambda. Working with small projects as a freelancer.
+Currently I'm working on big websites, with a CMS. Learning more about Jenkins, bundlers, gulp, project architecture, docker and design patterns. 
 
 ## Colaboration
 
