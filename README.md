@@ -3,11 +3,11 @@
 
 ## About
 
-I'm a fullstack developer, working with the web on solutions related to data (like web scraping) and apps (with React, Angular and VanillaJS), along with RESTful server services (using NodeJS and Mongo/Sql). I have a bachelor's degree in Electrical Engineering and I'm currently studying for a post-graduate degree in software engineering.
+I'm a fullstack developer, having worked like that for around 5 years. I have worked in small, medium and large teams, in many different industries. I like javascript and stuff related to that.
 
 ## Recent work and study
 
-Currently I'm working on big websites, with a CMS. Learning more about Jenkins, bundlers, gulp, project architecture, docker and design patterns. 
+Currently I'm working for toyota with serverless. Helping scale applications and rethink architecture patterns.
 
 ## Colaboration
 
@@ -17,7 +17,5 @@ I'm looking to learn and colaborate on projects related to what I already work w
 
 **E-mail:** dgramaciotti@gmail.com
 **Linkedin** https://www.linkedin.com/in/daniel-guedes-79a05a176/
-
-
-⚡ Fun fact: Brazilian and a great fan of Queijo Minas. Also musician on the spare time.
+**Medium** https://medium.com/@dgramaciotti
 
