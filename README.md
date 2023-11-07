@@ -3,15 +3,15 @@
 
 ## About
 
-I'm a fullstack developer, having worked like that for around 5 years. I have worked in small, medium and large teams, in many different industries. I like javascript and stuff related to that.
+I'm a full-stack developer, having worked like that for around 6 years. I have worked in small, medium, and large teams, in many different industries.
 
 ## Recent work and study
 
-Currently I'm working for toyota with serverless. Helping scale applications and rethink architecture patterns.
+Currently, I work for Varsity Tutors, an education company in the US. 
 
 ## Colaboration
 
-I'm looking to learn and colaborate on projects related to what I already work with and with new technologies. If you want my help just contact me, and we can talk about your project, whether its open-source or a business project.
+I'm looking to learn and collaborate on projects related to what I already work with and with new technologies. If you want my help contact me, and we can talk about your project, whether it's an open-source or a business project.
 
 ## Contact me
 
