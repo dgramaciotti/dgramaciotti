@@ -7,7 +7,7 @@ I'm a full-stack developer, having worked like that for around 6 years. I have w
 
 ## Recent work and study
 
-Currently, I work for Varsity Tutors, an education company in the US. 
+Currently working on a few multiple fronts, such as IOT, authentication solutions and AI.
 
 ## Colaboration
 
